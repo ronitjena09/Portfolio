@@ -9,7 +9,7 @@ export const Bio = {
       "I am Passionate and versatile creator with a love for storytelling. Adept at translating ideas into compelling content through writing, design, and multimedia.I am Dedicated to crafting impactful narratives that resonate.",
     github: "https://github.com/ronitjena09",
     resume:
-      "https://drive.google.com/file/d/1MabflDw6Ugi9oScIKlZldkZQKO172RJ2/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1SliYEBoCobaFdE8MIgI6I3QEv_z2VEpR/view",
     linkedin: "https://www.linkedin.com/in/ronitjena",
     twitter: "https://twitter.com/rxnittt/",
     insta: "https://www.instagram.com/rxnitt/",
