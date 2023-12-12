@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+```markdown
+# Ronit-Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio! This project is built using React, showcasing my skills, projects, and experience.
+Link to the full webpage: https://ronitjena09.github.io/Portfolio/
 
-## Available Scripts
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Acknowledgments](#acknowledgments)
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Clean and modern design
+- Responsive layout for various devices
+- Showcase of projects with details
+- Resume/CV section
+- Contact form for reaching out
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Prerequisites
 
-### `npm test`
+Before you begin, ensure you have the following installed:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Node.js and npm (Node Package Manager)
 
-### `npm run build`
+### Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   ```bash
+   git clone https://github.com/your-username/your-portfolio.git
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Navigate to the project directory:
 
-### `npm run eject`
+   ```bash
+   cd ronit-portfolio
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. Install dependencies:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   npm install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Usage
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Start the development server:
 
-## Learn More
+   ```bash
+   npm start
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   This will open the portfolio in your default web browser.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. Customize the content:
+   - Update the `src/data` directory with your project information, skills, and resume details.
+   - Modify the components in the `src/components` directory to match your preferences.
+   - Customize the styles in the `src/styles` directory.
 
-### Code Splitting
+## Project Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+my-portfolio/
+│
+├── src/
+│   ├── components/         # React components
+│   ├── data/               # Data files for projects, skills, etc.
+|   ├── HeroBgAnimation     # For providing Animation
+│   ├── images/             # Images used in the portfolio
+│   ├── styles/             # Stylesheets
+│   ├── App.js              # Main component
+│   └── index.js            # Entry point
+│   └── Utils               # Themes used
+│
+├── public/                 # Public assets
+├── .gitignore              # Git ignore file
+├── package.json            # Node.js dependencies and scripts
+├── README.md               # Project documentation
+└── ...                     # Other configuration files, etc.
+```
 
-### Analyzing the Bundle Size
+## Technologies Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [React](https://reactjs.org/)
+- [Create React App](https://create-react-app.dev/)
+- [React Router](https://reactrouter.com/)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Acknowledgments
 
-### Advanced Configuration
+- Icons made from [www.flaticon.com](www.flaticon.com).
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Feel free to customize this template based on your specific project structure, features, and preferences. Add or modify sections to provide more detailed information about your portfolio. Thank You !
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Leave a <3 if it helps you !
