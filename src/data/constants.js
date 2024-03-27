@@ -5,7 +5,7 @@ export const Bio = {
     "I am Passionate and versatile creator with a love for storytelling. Adept at translating ideas into compelling content through writing, design, and multimedia.I am Dedicated to crafting impactful narratives that resonate.",
   github: "https://github.com/ronitjena09",
   resume:
-    "https://drive.google.com/file/d/1JXrnjlyNowr0cWul6E-7eYfVyAFNZ6gW/view?usp=sharing",
+    "https://drive.google.com/file/d/1CeJFhl2R2y3OShIPJyCo5bSc9Jsv9wCj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ronitjena",
   twitter: "https://twitter.com/rxnittt/",
   insta: "https://www.instagram.com/rxnitt/",
@@ -261,7 +261,16 @@ export const projects = [
       " Built an all-in-one social media powerhouse à la Zoho, empowering brands to thrive online during a full-stack development internship at NIST(Autonomous). Leveraged diverse technologies including:Next.js, beautifully designed with Tailwind CSS, Express.js, Material UI, .NET, Graph.js, TensorFlow, DJango, MongoDB and GraphQL.",
     image:
       "https://th.bing.com/th/id/OIP.dmcH17LcqwEoONJD8vM-_wHaDt?rs=1&pid=ImgDetMain",
-    tags: ["Next.js", "Tailwind CSS", "Node.JS", "Tensorflow", "MongoDB", ".NET", "Django", "Graph.js"],
+    tags: [
+      "Next.js",
+      "Tailwind CSS",
+      "Node.JS",
+      "Tensorflow",
+      "MongoDB",
+      ".NET",
+      "Django",
+      "Graph.js",
+    ],
     category: "web app",
     github: "https://github.com/ronitjena09/Social-Site-Handler",
     member: [
@@ -284,7 +293,8 @@ export const projects = [
       "https://miro.medium.com/v2/resize:fit:640/format:webp/1*Ic-ME4SgJeIgRDZvZu0ivw.jpeg",
     tags: ["YOLO v5", "COCO ", "PyTorch", "OpenCV", "NumPy", "Matplotlib "],
     category: "machine learning",
-    github: "https://github.com/ronitjena09/Real-Time-Object-Detection-With-OpenCV",
+    github:
+      "https://github.com/ronitjena09/Real-Time-Object-Detection-With-OpenCV",
     webapp: "",
     member: [
       {
@@ -303,7 +313,16 @@ export const projects = [
       "Built a Real Software-as-a-Service app with AI features and payments credits system. Used Various technologies, such as Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.",
     image:
       "https://uploads-ssl.webflow.com/61ec28b09861e7548b546b8e/6436a5ada887c87f90d8798d_ai-tools-for-saas.jpg",
-    tags: ["Next.js 14", "Node.js ", "Tailwind CSS", ".NET", "Express.js", "Python", "Restful APIs", "Material UI"],
+    tags: [
+      "Next.js 14",
+      "Node.js ",
+      "Tailwind CSS",
+      ".NET",
+      "Express.js",
+      "Python",
+      "Restful APIs",
+      "Material UI",
+    ],
     category: "web app",
     github: "https://github.com/ronitjena09/ai-saas-platform",
     webapp: "",
@@ -324,7 +343,17 @@ export const projects = [
       "A full-stack music streaming application inspired by Spotify and Shazam, built using the latest web technologies such as Next.js (React), Chakra UI, Zustand, Howler.js for Frontend, and Node.js (Express.js), PostgreSQL, Passport.js for backend. Optimized and maintained the app by 80 percent.",
     image:
       "https://th.bing.com/th/id/R.c2a12cba057711495849088844f950cc?rik=982VbYW4HE09lQ&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f08%2fSpotify-Logo.png&ehk=Gcl8lyv0FdI4gDVyKLmVCVfNf8yc1xDmAvEDyPzt8Bk%3d&risl=&pid=ImgRaw&r=0",
-    tags: ["Next.js", "Node.js ", "Tailwind CSS", ".NET", "Chakra UI", "Zustand", "Howler.js", "PostgreSQL", "Passport.js"],
+    tags: [
+      "Next.js",
+      "Node.js ",
+      "Tailwind CSS",
+      ".NET",
+      "Chakra UI",
+      "Zustand",
+      "Howler.js",
+      "PostgreSQL",
+      "Passport.js",
+    ],
     category: "web app",
     github: "https://github.com/ronitjena09/ai-saas-platform",
     webapp: "",
